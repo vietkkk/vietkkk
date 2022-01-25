@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "sin chào pé ",
     introTitle: 'pé zịt cư tê',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'anh bíc mò 🥰. Yêu pé nhiều nhiều:3 ',
     messDesc: 'yêu anh và đợi anh nhá.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/ai.khongmot.395'
+    messLink: 'https://www.facebook.com/ai.khongmot.395'}

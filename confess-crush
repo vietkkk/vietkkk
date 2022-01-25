@@ -1,0 +1,19 @@
+const CONFIG = {
+    titleWeb: "Tiêu đề web",
+    introTitle: 'pé zịt cư tê',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương:>`,
+    btnIntro: 'hê hê',
+    title: 'biết em thích người thật thà',
+    desc: 'nên anh thích em là thật mà:3 ',
+    btnYes: 'Thích lắm <3',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh :>',
+    btnReply: 'Gửi cho pé <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'anh bíc mò 🥰. Yêu pé nhiều nhiều:3 ',
+    messDesc: 'yêu anh và đợi anh nhá.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/ai.khongmot.395'
